@@ -1,1 +1,1 @@
-# Ds-Algo
+# DS-Algo
