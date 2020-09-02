@@ -72,4 +72,5 @@ int main()
 		cout<<"\n";
 	}
 	job_sequencing(profit,deadline,n);
+	return 0;
 }
